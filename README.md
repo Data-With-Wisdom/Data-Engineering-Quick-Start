@@ -24,8 +24,8 @@
 ---
 
 ### 🔸 Beginner-Friendly Next Steps
-
-- 📘 **Books**:
+- 📘 **Build Projects**
+- 📘 **Read Fundamental Books**:
     - "Fundamentals of Data Engineering" by Joe Reis & Matt Housley
     - "Data Science for Business" for high-level understanding
 
