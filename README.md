@@ -19,8 +19,8 @@
     - Learn tools like Apache NiFi or Airflow later—but understand the idea first
 4. **Git & Docker**
     - Git: Learn to commit, push, and pull code using GitHub
+5. **Docker**
     - Docker: Understand how to “containerize” apps so they run the same anywhere
-
 ---
 
 ### 🔸 Beginner-Friendly Next Steps
