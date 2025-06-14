@@ -34,5 +34,5 @@
 > Focus on one skill at a time
 > 
 > 
-> Don’t rush—**real progress is about consistency, not speed**.
+> Don’t rush **real progress is about consistency, not speed**.
 > 
