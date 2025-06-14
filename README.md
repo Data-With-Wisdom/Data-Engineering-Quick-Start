@@ -1,5 +1,3 @@
-**Title:**
-
 **Data Engineering Quick-Start Cheat Sheet**
 
 *Start Smart. Stay Focused.*
